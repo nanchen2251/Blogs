@@ -1,5 +1,5 @@
 # nanchen's blogs
-这里主要是对自己的原创推文进行一个集锦。
+这里主要是对自己的原创推文进行一个集锦，但没有包括所有，更多博客推文请移步我的博客园（早期推文）和简书以及掘金平台，当然 CSDN 和其他一些网站也有部分推文，感兴趣的可以搜索查看。
 
 ### 算法系列
 1. [用 Java 实现一个 Singleton 模式](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%201%EF%BC%9A%E7%94%A8%20Java%20%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%20Singleton%20%E6%A8%A1%E5%BC%8F.md)
@@ -23,6 +23,13 @@
 19. [复杂链表的复制](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%2018%EF%BC%9A%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6%EF%BC%88%E5%89%91%E6%8C%87%20Offer%20%E7%AC%AC%2026%20%E9%A2%98%EF%BC%89.md)
 20. [输出数组中出现次数超过一半的数字](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%2019%EF%BC%9A%E8%BE%93%E5%87%BA%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97%EF%BC%88%E5%89%91%E6%8C%87%20Offer%2026%20%E9%A2%98%EF%BC%89.md)
 21. [计算连续子数组的最大和](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%2020%EF%BC%9A%E8%AE%A1%E7%AE%97%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C%EF%BC%88%E5%89%91%E6%8C%87%20Offer%2031%20%E9%A2%98%EF%BC%89.md)
+
+### 感悟心得系列
+1. [给扔物线朱凯 HenCoder Plus 的一次分享](https://github.com/nanchen2251/Blogs/blob/master/experience/%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95%E5%88%86%E4%BA%AB.md)
+2. [说说过去一周的面试和想法](https://github.com/nanchen2251/Blogs/blob/master/experience/%E8%AF%B4%E8%AF%B4%E8%BF%87%E5%8E%BB%E4%B8%80%E5%91%A8%E7%9A%84%E9%9D%A2%E8%AF%95%E5%92%8C%E6%83%B3%E6%B3%95.md)
+3. [说说入职咕咚两日的感受](https://github.com/nanchen2251/Blogs/blob/master/experience/%E8%AF%B4%E8%AF%B4%E5%85%A5%E8%81%8C%E4%B8%A4%E5%A4%A9%E7%9A%84%E6%84%9F%E5%8F%97.md)
+4. [一眼就能望到头的人生，我想想都怕](https://github.com/nanchen2251/Blogs/blob/master/experience/%E4%B8%80%E7%9C%BC%E5%B0%B1%E8%83%BD%E6%9C%9B%E5%88%B0%E5%A4%B4%E7%9A%84%E4%BA%BA%E7%94%9F%EF%BC%8C%E6%88%91%E6%83%B3%E6%83%B3%E9%83%BD%E6%80%95.md)
+5. [南尘的 2018，阅读本文大约需要一整年](https://github.com/nanchen2251/Blogs/blob/master/experience/%E5%8D%97%E5%B0%98%E7%9A%84%202018%EF%BC%8C%E9%98%85%E8%AF%BB%E6%9C%AC%E6%96%87%E5%A4%A7%E7%BA%A6%E9%9C%80%E8%A6%81%E4%B8%80%E6%95%B4%E5%B9%B4.md)
 
 ### 关于作者
     南尘<br>
