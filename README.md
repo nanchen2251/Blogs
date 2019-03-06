@@ -1,6 +1,29 @@
 # nanchen's blogs
 这里主要是对自己的原创推文进行一个集锦。
 
+### 算法系列
+1. [用 Java 实现一个 Singleton 模式](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%201%EF%BC%9A%E7%94%A8%20Java%20%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%20Singleton%20%E6%A8%A1%E5%BC%8F.md)
+2. [用 Java 逆序打印链表](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%202%EF%BC%9A%E7%94%A8%20Java%20%E9%80%86%E5%BA%8F%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md)
+3. [查找旋转数组的最小数字](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%203%EF%BC%9A%E6%9F%A5%E6%89%BE%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97.md)
+4. [避免用递归去解决斐波那契数列](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%204%EF%BC%9A%E9%81%BF%E5%85%8D%E7%94%A8%E9%80%92%E5%BD%92%E5%8E%BB%E8%A7%A3%E5%86%B3%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md)
+5. [手写 Java 的 pow() 实现](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%205%EF%BC%9A%E6%89%8B%E5%86%99%20Java%20%E7%9A%84%20pow()%20%E5%AE%9E%E7%8E%B0.md)
+6. [调整数组顺序使奇数位于偶数前面](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%206%EF%BC%9A%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2.md)
+7. [面试常见的链表类算法捷径(一)](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%207%EF%BC%9A%E9%9D%A2%E8%AF%95%E5%B8%B8%E8%A7%81%E7%9A%84%E9%93%BE%E8%A1%A8%E7%B1%BB%E7%AE%97%E6%B3%95%E6%8D%B7%E5%BE%84(%E4%B8%80).md)
+8. [面试常见的链表算法捷径(二)](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%208%EF%BC%9A%E9%9D%A2%E8%AF%95%E5%B8%B8%E8%A7%81%E7%9A%84%E9%93%BE%E8%A1%A8%E7%AE%97%E6%B3%95%E6%8D%B7%E5%BE%84(%E4%BA%8C).md)
+9. [用 Java 实现冒泡排序](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%209%EF%BC%9A%E7%94%A8%20Java%20%E5%AE%9E%E7%8E%B0%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.md)
+10. [Java 玩转选择排序和插入排序](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%2010%EF%BC%9AJava%20%E7%8E%A9%E8%BD%AC%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F%E5%92%8C%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F.md)
+11. [Java 玩转归并排序](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%2011%EF%BC%9AJava%20%E7%8E%A9%E8%BD%AC%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F.md)
+12. [玩转 Java 快速排序](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%2012%EF%BC%9A%E7%8E%A9%E8%BD%AC%20Java%20%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F.md)
+13. [基于排序算法的总结](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%2013%EF%BC%9A%E5%9F%BA%E4%BA%8E%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E7%9A%84%E6%80%BB%E7%BB%93.md)
+14. [合并两个排序链表](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%2014%EF%BC%9A%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.md)
+15. [合并两个排序链表勘误纠正](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%2015%EF%BC%9A%E9%92%88%E5%AF%B9%E6%98%A8%E5%A4%A9%E7%9A%84%E6%8E%A8%E6%96%87%EF%BC%8C%E6%9C%89%E5%87%A0%E5%8F%A5%E6%83%B3%E8%AF%B4%E7%9A%84.md)
+16. [顺时针从外往里打印数字](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%2015%EF%BC%9A%E9%A1%BA%E6%97%B6%E9%92%88%E4%BB%8E%E5%A4%96%E5%BE%80%E9%87%8C%E6%89%93%E5%8D%B0%E6%95%B0%E5%AD%97.md)
+17. [栈的压入压出队列](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%2016%EF%BC%9A%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E5%8E%8B%E5%87%BA%E9%98%9F%E5%88%97.md)
+18. [从上到下打印二叉树](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%2017%EF%BC%9A%E4%BB%8E%E4%B8%8A%E5%88%B0%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+19. [复杂链表的复制](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%2018%EF%BC%9A%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6%EF%BC%88%E5%89%91%E6%8C%87%20Offer%20%E7%AC%AC%2026%20%E9%A2%98%EF%BC%89.md)
+20. [输出数组中出现次数超过一半的数字](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%2019%EF%BC%9A%E8%BE%93%E5%87%BA%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97%EF%BC%88%E5%89%91%E6%8C%87%20Offer%2026%20%E9%A2%98%EF%BC%89.md)
+21. [计算连续子数组的最大和](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%2020%EF%BC%9A%E8%AE%A1%E7%AE%97%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C%EF%BC%88%E5%89%91%E6%8C%87%20Offer%2031%20%E9%A2%98%EF%BC%89.md)
+
 ### 关于作者
     南尘<br>
     四川成都<br>
