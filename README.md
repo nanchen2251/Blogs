@@ -10,7 +10,7 @@
     [博客园](http://www.cnblogs.com/liushilin/)<br>
     [掘金](https://juejin.im/user/593f78bada2f60006738d641)<br>
     欢迎投稿(关注)我的唯一公众号，公众号搜索 nanchen 或者扫描下方二维码：<br>
-    ![](https://user-gold-cdn.xitu.io/2018/7/27/164d92a769e2915e)
+    ![](https://github.com/nanchen2251/Blogs/blob/master/images/nanchen12.jpg)
 
 #### 有码走遍天下 无码寸步难行（引自网络）
 
