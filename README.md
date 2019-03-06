@@ -1,6 +1,9 @@
 # nanchen's blogs
 这里主要是对自己的原创推文进行一个集锦。
 
+### 算法系列
+1. [用 Java 实现一个 Singleton 模式](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%201%EF%BC%9A%E7%94%A8%20Java%20%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%20Singleton%20%E6%A8%A1%E5%BC%8F.md)
+
 ### 关于作者
     南尘<br>
     四川成都<br>
