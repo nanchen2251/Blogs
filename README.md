@@ -31,6 +31,13 @@
 4. [一眼就能望到头的人生，我想想都怕](https://github.com/nanchen2251/Blogs/blob/master/experience/%E4%B8%80%E7%9C%BC%E5%B0%B1%E8%83%BD%E6%9C%9B%E5%88%B0%E5%A4%B4%E7%9A%84%E4%BA%BA%E7%94%9F%EF%BC%8C%E6%88%91%E6%83%B3%E6%83%B3%E9%83%BD%E6%80%95.md)
 5. [南尘的 2018，阅读本文大约需要一整年](https://github.com/nanchen2251/Blogs/blob/master/experience/%E5%8D%97%E5%B0%98%E7%9A%84%202018%EF%BC%8C%E9%98%85%E8%AF%BB%E6%9C%AC%E6%96%87%E5%A4%A7%E7%BA%A6%E9%9C%80%E8%A6%81%E4%B8%80%E6%95%B4%E5%B9%B4.md)
 
+### Kotlin 相关系列
+1. [To Better Kotlin](https://github.com/nanchen2251/Blogs/blob/master/kotlin/Better%20Kotlin.md)
+2. [分享一个 Kotlin 学习方式](https://github.com/nanchen2251/Blogs/blob/master/kotlin/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%20Kotlin%20%E5%AD%A6%E4%B9%A0%E6%96%B9%E5%BC%8F.md)
+
+### Other
+1. [Git 如何遗弃已经 Push 的提交](https://github.com/nanchen2251/Blogs/blob/master/others/Git%20%E5%A6%82%E4%BD%95%E9%81%97%E5%BC%83%E5%B7%B2%E7%BB%8F%20Push%20%E7%9A%84%E6%8F%90%E4%BA%A4.md)
+
 ### 关于作者
     南尘<br>
     四川成都<br>
