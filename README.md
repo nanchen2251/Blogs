@@ -3,6 +3,8 @@
 
 ### 算法系列
 1. [用 Java 实现一个 Singleton 模式](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%201%EF%BC%9A%E7%94%A8%20Java%20%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%20Singleton%20%E6%A8%A1%E5%BC%8F.md)
+2. [用 Java 逆序打印链表](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%202%EF%BC%9A%E7%94%A8%20Java%20%E9%80%86%E5%BA%8F%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md)
+3. [查找旋转数组的最小数字](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%203%EF%BC%9A%E6%9F%A5%E6%89%BE%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97.md)
 
 ### 关于作者
     南尘<br>
