@@ -8,9 +8,9 @@
     [个人博客](https://nanchen2251.github.io/)<br>
     [简书](http://www.jianshu.com/u/f690947ed5a6)<br>
     [博客园](http://www.cnblogs.com/liushilin/)<br>
-
+    [掘金](https://juejin.im/user/593f78bada2f60006738d641)<br>
     欢迎投稿(关注)我的唯一公众号，公众号搜索 nanchen 或者扫描下方二维码：<br>
-    ![](http://images2015.cnblogs.com/blog/845964/201707/845964-20170718083641599-1963842541.jpg)
+    ![](https://user-gold-cdn.xitu.io/2018/7/27/164d92a769e2915e)
 
 #### 有码走遍天下 无码寸步难行（引自网络）
 
@@ -32,7 +32,7 @@
 ​    
 ## Licenses
 ```
- Copyright 2017 nanchen(刘世麟)
+ Copyright 2019 nanchen(刘世麟)
 
  Licensed under the Apache License, Version 2.0 (the "License");
  you may not use this file except in compliance with the License.
