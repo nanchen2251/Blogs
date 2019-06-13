@@ -1,7 +1,7 @@
 # nanchen's blogs
 这里主要是对自己的原创推文进行一个集锦，但没有包括所有，更多博客推文请移步我的博客园（早期推文）和简书以及掘金平台，当然 CSDN 和其他一些网站也有部分推文，感兴趣的可以搜索查看。
 
-##### 每日一问系列请[点击这里](https://github.com/nanchen2251/Blogs/tree/master/Android)：
+#### 每日一问系列请[点击这里](https://github.com/nanchen2251/Blogs/tree/master/Android)：
 
 ### 算法系列
 1. [用 Java 实现一个 Singleton 模式](https://github.com/nanchen2251/Blogs/blob/master/algorithm/%E9%9D%A2%E8%AF%95%201%EF%BC%9A%E7%94%A8%20Java%20%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%20Singleton%20%E6%A8%A1%E5%BC%8F.md)
